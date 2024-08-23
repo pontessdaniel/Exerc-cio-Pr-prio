@@ -2,7 +2,7 @@
 
 ## Neste exercício testarei meus conhecimentos
 
-### Começando por tamanhos de fontes e tipos de *fontes*
+### Começando por tamanhos de fontes e ***tipos*** de *fontes*
 
 ---
 
