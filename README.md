@@ -10,7 +10,7 @@ Agora uma tabela simples de verdadeiro ou falso:
 
 | **Animais** | **Répteis** | **Aves** |
 |-------------|-------------|----------|
-|Lagartos     |      V      |   F      |
+|Lagarto      |      V      |   F      |
 |Camaleão     |      V      |   F      |
 |Arara        |      F      |   V      |
 |Crocodilo    |      V      |   F      |
