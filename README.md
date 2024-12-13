@@ -18,3 +18,4 @@ Agora uma tabela simples de verdadeiro ou falso:
 |Galinha      |      F      |   V      |
 
 teste
+ 2
